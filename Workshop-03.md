@@ -18,6 +18,8 @@ You are required to ask for premission to use the users location
 Delegating a job to itself
 
 **How can you simulate location on the simulator?**
+Setting up gpx file
+
 ``` swift
 extension ViewController: CLLocationManagerDelegate {
     
