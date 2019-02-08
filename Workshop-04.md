@@ -3,6 +3,9 @@
 #### Adding a MapView and Annotations to your project:
   - Import MapKit 
   - Display mapView 
+``` swift
+
+```
   - Add an annotation
 
 **How do you display a users location on the map**
@@ -16,6 +19,10 @@ File - New - File - Swift File
 Core Location
 
 **How do you add the annotation to the MapView?**
+``` swift
+let annotation = CustomAnnotation(address: getAddress)
+MapView.addAnnotation(annotation)
+```
 
 ? means optional
 ! means its set
