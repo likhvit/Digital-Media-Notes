@@ -3,8 +3,12 @@
 #### Segues
 
 **What is a segue**
+The connection of one view controller to another
 
 **What is a segue identifier?**
+Name of the segue
+
+Name = string
 
 **How do you create segue from a button?**
 Crtl + drag button to new view controller
