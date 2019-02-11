@@ -10,8 +10,8 @@
 Crtl + drag button to new view controller
 
 **How do you create from a view controller without a button?**
-Editor - Navigation controller
-Crtl + drag view controller to new VC
+**Editor - Navigation controller**
+**Crtl + drag view controller to new VC**
 ``` swift
 extension ViewController: MKMapViewDelegate {
     func mapView(_ mapView: MKMapView, didSelect view: MKAnnotationView) {
